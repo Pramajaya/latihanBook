@@ -1,0 +1,2 @@
+module latihanExtraClass2 {
+}
